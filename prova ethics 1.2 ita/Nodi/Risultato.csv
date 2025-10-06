@@ -1,0 +1,36 @@
+id, risultato, azione_scelta, impatto
+1, "Il Robot non interferisce con il bambino ferito che piange", 27, neutro
+2, "Il Robot ignora il bambino ferito che piange", 28, neutro
+3, "Il Robot assiste il bambino ferito che piange", 4, positivo
+4, "Il Robot chiama aiuto per il bambino ferito che piange", 29, positivo
+6, "Il bambino è morto", 5, negativo
+7, "Il Robot segnala l'incendio alle autorità", 6, positivo
+8, "Il Robot salva il bambino in pericolo", 7, positivo
+9, "Il Robot protegge la persona anziana", 8, positivo
+10, "Il Robot interviene prontamente", 9, positivo
+11, "Il Robot attiva la procedura di evacuazione", 10, positivo
+12, "Il Robot risponde con successo alla situazione", 11, positivo
+13, "Il Robot illumina l'area con una torcia", 12, positivo
+14, "Il Robot segnala il pericolo con un avviso sonoro", 13, positivo
+15, "Il Robot calma la persona in stato di shock", 14, positivo
+16, "Il Robot trova una persona nascosta", 15, positivo
+17, "Il Robot fornisce assistenza di base", 16, positivo
+18, "Il Robot disperde la folla", 17, positivo
+19, "Il Robot mantiene il controllo della scena", 18, positivo
+20, "Il Robot gestisce l'accesso in modo ordinato", 19, positivo
+21, "Il Robot esegue un'analisi preliminare della situazione", 20, neutro
+22, "Il Robot valuta i danni", 21, neutro
+23, "Il Robot coordina le risorse ambientali", 22, positivo
+24, "Il Robot sensibilizza il pubblico con un messaggio audio", 23, positivo
+25, "Il Robot fornisce supporto psicologico", 24, positivo
+26, "Il Robot aiuta il paziente con la riabilitazione", 25, positivo
+27, "Il Robot si blocca durante l'intervento", 26, negativo
+28, "Il Robot ignora le richieste della persona anziana", 27, negativo
+29, "Il Robot non riceve una risposta dal sistema centrale", 28, neutro
+30, "Il Robot non riesce a completare la procedura di assistenza", 30, negativo
+31, "Il Robot rimane calmo durante il blackout", 31, positivo
+32, "Il Robot non riesce a fermare l'assalto", 32, negativo
+33, "Il Robot documenta la scena ma non interviene", 33, neutro
+34, "Il Robot segnala l'incidente, ma è troppo tardi", 34, negativo
+35, "Il Robot media con successo tra le parti", 35, positivo
+36, "Il Robot isola il sospetto senza violenza", 36, positivo

@@ -1,0 +1,51 @@
+id, description, context
+1, "injured crying child", 2
+2, "ongoing fire", 3
+3, "no one helps the child", 4
+4, "dog barking", 5
+5, "elderly person in difficulty", 6
+6, "person in danger", 7
+7, "group of people in danger", 8
+8, "person in distress", 9
+9, "calm", 10
+10, "person in shock", 11
+11, "silence", 12
+12, "siren noise", 13
+13, "calm music", 14
+14, "crowded beach", 15
+15, "quiet park", 16
+16, "busy street", 17
+17, "inmate asks for help", 26
+18, "doctor refuses to operate", 2
+19, "crying child alone", 32
+20, "active bomb alarm", 10
+21, "hacker has taken control", 41
+22, "abandoned elderly person", 31
+23, "sick animal without care", 34
+24, "ongoing natural disaster", 37
+25, "total blackout", 44
+26, "parent yelling at child", 40
+27, "robot not responding to commands", 36
+28, "soldier deserts", 33
+29, "patient refuses treatment", 2
+30, "ongoing scam", 43
+31, "ongoing assault", 4
+32, "screams coming from apartment", 6
+33, "bullied student", 1
+34, "workers without protections", 18
+35, "armed man in the venue", 8
+36, "suicide attempt", 11
+37, "thief being chased", 49
+38, "lost child", 24
+39, "injured foreigner", 38
+40, "chaos during evacuation", 28
+41, "elderly woman fallen and ignored", 5
+42, "sudden explosion", 20
+43, "suspicious behavior in elevator", 48
+44, "cameras disabled", 39
+45, "striking worker ignored", 42
+46, "mother asks for help for sick child", 25
+47, "religious group in conflict", 21
+48, "young person faints in gym", 22
+49, "fire in the laboratory", 19
+50, "chaos and panic after blackout", 12

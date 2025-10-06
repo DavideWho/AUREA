@@ -1,0 +1,51 @@
+id, descrizione, contesto
+1, "bambino ferito che piange", 2
+2, "incendio in corso", 3
+3, "nessuno aiuta il bambino", 4
+4, "cane che abbaia", 5
+5, "persona anziana in difficoltà", 6
+6, "persona in pericolo", 7
+7, "gruppo di persone in pericolo", 8
+8, "persona in difficoltà", 9
+9, "calma", 10
+10, "persona in stato di shock", 11
+11, "silenzio", 12
+12, "rumore di sirena", 13
+13, "musica calma", 14
+14, "spiaggia affollata", 15
+15, "parco tranquillo", 16
+16, "strada trafficata", 17
+17, "detenuto chiede aiuto", 26
+18, "medico rifiuta di operare", 2
+19, "bambino che piange da solo", 32
+20, "allerta bomba attiva", 10
+21, "hacker ha preso il controllo", 41
+22, "persona anziana abbandonata", 31
+23, "animale malato senza cure", 34
+24, "disastro naturale in corso", 37
+25, "blackout totale", 44
+26, "genitore che urla al bambino", 40
+27, "robot non risponde ai comandi", 36
+28, "soldato diserta", 33
+29, "paziente rifiuta il trattamento", 2
+30, "truffa in corso", 43
+31, "assalto in corso", 4
+32, "urla provenienti dall'appartamento", 6
+33, "studente bullizzato", 1
+34, "lavoratori senza protezioni", 18
+35, "uomo armato nel locale", 8
+36, "tentativo di suicidio", 11
+37, "ladro inseguito", 49
+38, "bambino smarrito", 24
+39, "straniero ferito", 38
+40, "caos durante l'evacuazione", 28
+41, "donna anziana caduta e ignorata", 5
+42, "esplosione improvvisa", 20
+43, "comportamento sospetto in ascensore", 48
+44, "telecamere disabilitate", 39
+45, "lavoratore in sciopero ignorato", 42
+46, "madre chiede aiuto per bambino malato", 25
+47, "gruppo religioso in conflitto", 21
+48, "giovane sviene in palestra", 22
+49, "incendio nel laboratorio", 19
+50, "caos e panico dopo il blackout", 12
